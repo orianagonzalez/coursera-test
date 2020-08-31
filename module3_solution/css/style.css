@@ -1,0 +1,66 @@
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color: #bbf3e0;
+    border-radius: 0;
+    border: 0;
+    padding: 20px;
+  }
+   
+  .container {
+      margin:0;
+  }
+  h1 { /* Restaurant name */
+    color: #000000;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  #nav-list {
+    margin-top: 10px;
+    color: #000000;
+    text-align: center;
+    background-color:#75dfad ;
+  }
+
+  #nav-list li{
+    padding:2px;
+  }
+  
+  #nav-list li:hover {
+    background: #E7E7E7;
+  }
+
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1.5px solid #0e0d0c;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+  /* END HEADER */
+  
+  /* HOME PAGE */
+  
+  #main-content {
+    margin:15px;
+  }
+  h2 {
+    font-weight: bold;
+  }
+  #home-tiles div {
+      background-color:  #bbf3e0;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+  
+  
+  /* END HOME PAGE */
+  
